@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Sidebar from "./components/Sidebar.js"
 import Communications from './components/Communications';
 import Messages from './components/Messages';
