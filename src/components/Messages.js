@@ -2,13 +2,12 @@ import React from "react"
 import emperorAvatar from './images/emperor-avatar.png'
 import vaderAvatar from './images/Darth-vader-avatar.png'
 import stormTrooperAvatar from './images/Storm-trooper-avatar.png'
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 export default function Messages() {
   return (
     <div className="messages-container">
       <div className="messages-header">
-        <h1><FontAwesomeIcon icon="fa-brands fa-galactic-republic" />orders</h1>
+        <h1><i class="fa-brands fa-galactic-republic"></i>orders</h1>
       </div>
 
       <div class="message-conversations">
@@ -28,7 +27,7 @@ export default function Messages() {
           <img className="message-img"src={stormTrooperAvatar} alt="stormtrooper avatar"/>
           <div className="message-content">
             <p className="messenger-name"><strong>Storm Trooper 1</strong></p>
-            <p>Of course sir! Will make sure the toilets are clean</p>
+            <p>Of course sir! Will make sure the toilets are clean!</p>
             <p>Anything else we should do?
             </p>
           </div>

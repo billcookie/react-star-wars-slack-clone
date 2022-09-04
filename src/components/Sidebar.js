@@ -1,5 +1,5 @@
 import React from "react"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+
 
 export default function Siderbar() {
   return (
@@ -8,7 +8,7 @@ export default function Siderbar() {
       <h2 className="side-bar-active">DS</h2>
       <h2 className="side-bar-inactive">BH</h2>
       <h2 className="side-bar-inactive">KH</h2>
-      <h2 className="side-bar-add-org"><FontAwesomeIcon icon="fa-solid fa-plus" /></h2>
+      <h2 className="side-bar-add-org"><i className="fa-solid fa-plus"></i></h2>
     </div>
   </div>
   )
