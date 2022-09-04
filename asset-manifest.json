@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-star-wars-slack-clone/index.html/static/css/main.763ce16b.css",
-    "main.js": "/react-star-wars-slack-clone/index.html/static/js/main.05c4c456.js",
-    "static/js/787.a86f3764.chunk.js": "/react-star-wars-slack-clone/index.html/static/js/787.a86f3764.chunk.js",
-    "static/media/emperor-avatar.png": "/react-star-wars-slack-clone/index.html/static/media/emperor-avatar.dbee1e554ea5402155e2.png",
-    "static/media/Storm-trooper-avatar.png": "/react-star-wars-slack-clone/index.html/static/media/Storm-trooper-avatar.a4529e154f24c85b2389.png",
-    "static/media/Darth-vader-avatar.png": "/react-star-wars-slack-clone/index.html/static/media/Darth-vader-avatar.22ecd49529cd976da341.png",
-    "index.html": "/react-star-wars-slack-clone/index.html/index.html",
-    "main.763ce16b.css.map": "/react-star-wars-slack-clone/index.html/static/css/main.763ce16b.css.map",
-    "main.05c4c456.js.map": "/react-star-wars-slack-clone/index.html/static/js/main.05c4c456.js.map",
-    "787.a86f3764.chunk.js.map": "/react-star-wars-slack-clone/index.html/static/js/787.a86f3764.chunk.js.map"
+    "main.css": "/react-star-wars-slack-clone/static/css/main.763ce16b.css",
+    "main.js": "/react-star-wars-slack-clone/static/js/main.1e15b6ea.js",
+    "static/js/787.a86f3764.chunk.js": "/react-star-wars-slack-clone/static/js/787.a86f3764.chunk.js",
+    "static/media/emperor-avatar.png": "/react-star-wars-slack-clone/static/media/emperor-avatar.dbee1e554ea5402155e2.png",
+    "static/media/Storm-trooper-avatar.png": "/react-star-wars-slack-clone/static/media/Storm-trooper-avatar.a4529e154f24c85b2389.png",
+    "static/media/Darth-vader-avatar.png": "/react-star-wars-slack-clone/static/media/Darth-vader-avatar.22ecd49529cd976da341.png",
+    "index.html": "/react-star-wars-slack-clone/index.html",
+    "main.763ce16b.css.map": "/react-star-wars-slack-clone/static/css/main.763ce16b.css.map",
+    "main.1e15b6ea.js.map": "/react-star-wars-slack-clone/static/js/main.1e15b6ea.js.map",
+    "787.a86f3764.chunk.js.map": "/react-star-wars-slack-clone/static/js/787.a86f3764.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.763ce16b.css",
-    "static/js/main.05c4c456.js"
+    "static/js/main.1e15b6ea.js"
   ]
 }
