@@ -1,3 +1,10 @@
+# ⭐️ React Star Wars Slack Clone
+
+A Star Wars themed slack copy used to practice React components and integration.
+
+<br>
+App home: http://billcook.me/react-star-wars-slack-clone/
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Run a server
+```
+npm run start
+```
+
+## Built With
+
+- [Figma](https://www.figma.com) — Prototyping
+
+## Acknowledgements
+Inspired by Jane Mount's [Bibliophile](https://www.amazon.com/Bibliophile-Illustrated-Miscellany-Jane-Mount/dp/1452167230) and a story my father once told me: "Why do we keep books? ... We keep books because they remind us of the new perspectives and lessons we learned".
+
+## Team Members
+- [Bill Cook](https://www.linkedin.com/in/bill--cook/)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License
