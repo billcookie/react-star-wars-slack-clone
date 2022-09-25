@@ -1,6 +1,6 @@
 # ⭐️ React Star Wars Slack Clone
 
-A Star Wars themed slack copy used to practice React components and integration.
+A static Star Wars themed slack copy used to practice React components and integration.
 
 <br>
 App home: http://billcook.me/react-star-wars-slack-clone/
